@@ -36,6 +36,23 @@ body, html{
 .custom-shape-divider-top-1711779397 .shape-fill {
     fill: rgb(250, 220, 225);
 }
+
+/* for toogle button */
+button{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 32px;
+    left: 19px;
+}
+button img{
+    height: 30px;
+    width: 30px;
+}
+
+
+
 .whole-img img{
     height: 50px;
     width: 50px;
